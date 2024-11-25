@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CharacterData
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterScriptObj
+  data:
+    CharacterName: Aru
+    characterData:
+      LoginVoicepath:
+      - Video/Aru Voice/LoginVoice/Aru_LogIn_1
+      - Video/Aru Voice/LoginVoice/Aru_LogIn_2
+      LoginVoiceString:
+      - "\uC120\uC0DD\uB2D8! \uC5B4\uC11C \uC640. \uC624\uB298\uB3C4 \uC774 \uBAB8\uC774
+        \uC120\uC0DD\uB2D8\uC744 \uACBD\uD638\uD574 \uC8FC\uC9C0!"
+      - "\uAE30\uB2E4\uB9AC\uACE0 \uC788\uC5C8\uC5B4. \uBB34\uC2A8 \uC758\uB8B0\uB4E0,
+        \uD765\uC2E0\uC18C\uB294 \uBC18\uB4DC\uC2DC \uC218\uD589\uD574 \uC904 \uD14C\uB2C8\uAE4C!"
+      clickMessagespath:
+      - Video/Aru Voice/LobbyVoice/Aru_Lobby_1
+      - Video/Aru Voice/LobbyVoice/Aru_Lobby_2
+      - Video/Aru Voice/LobbyVoice/Aru_Lobby_3
+      - Video/Aru Voice/LobbyVoice/Aru_Lobby_4
+      - Video/Aru Voice/LobbyVoice/Aru_Lobby_5
+      clickMessageString:
+      - "\uD6D7. \uC120\uC0DD\uB2D8\uACFC\uC758 \uD611\uC5C5, \uAE30\uB300\uD558\uACE0
+        \uC788\uB2E4\uACE0."
+      - "\uD558\uD558\uD558! \uB098\uC758 \uB2A5\uB825\uC774 \uBCF4\uACE0 \uC2F6\uACA0\uC9C0?"
+      - "\u22EF\uC751? \uC544\uB2C8\uB77C\uACE0?"
+      - "\uC624\uB298\uC740 \uBC24\uC0C8 \uC57C\uADFC\u22EF? \uADF8, \uADF8\uB7FC
+        \uB05D\uB098\uACE0 \uB370\uC774\uD2B8\uB294?"
+      - "\uADF8, \uADF8\uB7F0 \uC57D\uC18D \uC5C6\uC5C8\uB2E4\uACE0? \uC544, \uC544\uD558\uD558!
+        \uADF8\uB7AC\uC5C8\uC9C0, \uCC38."
+      battleVoicespath: []
+      specialMessagespath: []

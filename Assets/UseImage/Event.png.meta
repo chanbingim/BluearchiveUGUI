@@ -1,0 +1,4653 @@
+fileFormatVersion: 2
+guid: 5227b08e5e34c5846a0354e7657e651c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Event_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 948
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223d4d683f5f83b47942d3147f73d7e7
+      internalID: -1543273011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 970
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb113f0cc4dfa641ae50b95e7be8675
+      internalID: 1664322532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1007
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677916c76f40ea44eae4867897f40ff8
+      internalID: 252376439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1020
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbdef63e9a166442b284a0165844ff1
+      internalID: -239705605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1020
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce19c22b45683449d5d7770000bb02
+      internalID: -137420757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 967
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b16d16b7bdfe48a38988d49fb5c7b
+      internalID: -1636576640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1014
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbce74c5da5fd949bc93c7e9e98158b
+      internalID: 871271432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_7
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 990
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a349807c7c1c4daa3b13566d23138
+      internalID: 531593667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 955
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cc4350ee40dc746940c4f8a0b90f9f
+      internalID: 1186031206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 930
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730e62010028bd42baf8b59d7a9f878
+      internalID: -1005963274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1008
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650797e5f57b3f748ab3cd03ea8f4974
+      internalID: -809655857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1007
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b26b9ce07673734a9fe6ff823fb488e
+      internalID: -1765472109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 934
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b772fa0583caa9498adf11d82d8b8e0
+      internalID: -267672342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28759464d91d5648950c74a8c22023f
+      internalID: -552960333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 932
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ce78e1c975d844a7f7e47de0e9164
+      internalID: -369918332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_15
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1002
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543818aa2d70ae94b8217a6243327af6
+      internalID: -1906063688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 996
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e8bf2167ceb14d92fc7ce12ef899f
+      internalID: 1558353132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_17
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 931
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998bb97b61c3124bbe2d92725363af9
+      internalID: -1537774373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_18
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 929
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ecacfd3dbb134e94fd7558c1c34b4
+      internalID: -2129307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 978
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8ad50697304a49a079b04995cff87
+      internalID: -490899821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_20
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 925
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88349ff891e2d4f9a01bf3013cd9db
+      internalID: -259431904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 930
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9368e82d167f3ae4297328e81ac58c6e
+      internalID: 1037261263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_22
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 906
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8907a1350cf166b419820e0785ed2c7e
+      internalID: -1534149587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 902
+        width: 149
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2a55b95a4189e4997d78acbc38cca3
+      internalID: 557197580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_24
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 912
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953fd523eaf239340bc21b860b947399
+      internalID: 314860579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 907
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d80d04d46ce2849a5201ecb2ddf063
+      internalID: -1392590685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 894
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23a61174abb66b48af1f335f047914c
+      internalID: 1000882932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_27
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 960
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b904059ffa8c44d8f56170c362cf04
+      internalID: -780315443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_28
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 897
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd74dd80bc3da647a21ca9bd6868c15
+      internalID: -1787460965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_29
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 910
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1173d23e22939dc44be8105897490b34
+      internalID: 478789730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 791
+        width: 155
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de83594ff53c404fbc61087823134ce
+      internalID: -1269473283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 954
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c66741b82cb0ea498cc049d3581f5fb
+      internalID: -494895005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 930
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33a6d66b1aa55942af3b3759dc22cf6
+      internalID: 1760630572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a2706c2ff6744190acc4292f9788f
+      internalID: 329454509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 946
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628bea60aab5a44fae32a089ef99d19
+      internalID: -216569164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 926
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3012c46ed7b6674d828910848e96bcd
+      internalID: -990075655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 870
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c245e77516a15364bba83ce3ee0eb702
+      internalID: -1772250764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_37
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 863
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355544bd6da09fd4baa5787b2f31eb47
+      internalID: 1817363964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_38
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 864
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8deb57b1228bf4991746704e6e4b12
+      internalID: -955930332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 924
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c33bf6ff10bb145a1756dcbcf525b5
+      internalID: -748662975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 834
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280b75a1e63181c4f843b466ea0e54da
+      internalID: 1884853441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 834
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b0984b1b55b94a8769748fb0ce688
+      internalID: -247214222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 816
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bfba114878ad747a9cff2b5dd6dc8b
+      internalID: 2014697990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 894
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa408bb71f25f4b9d956964ff046b5
+      internalID: 295990508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 894
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec758406389b3478062be6083bf07d
+      internalID: -638478406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 900
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95973bf2faba9942aa891b72e706d18
+      internalID: 1512078989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_46
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 854
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af4cd715ab4ff4396722cb001c30c6
+      internalID: -331848200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_47
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 858
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0207e6c6627248abd70204fca1b3a
+      internalID: -1100144289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_48
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 903
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b854d96c656014d4da29ec917355307a
+      internalID: -915855553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_49
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 840
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d61a03dd7834a14099e773bde3aa230
+      internalID: 971143879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_50
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 848
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31edc492ee2f648b5dd58fdfeb697d
+      internalID: 1106542645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 150
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e9123cbd3cb042b3a13c0594454aa
+      internalID: -521709665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_53
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 750
+        width: 65
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6529ee4cca057914ea40f0d419f6b78d
+      internalID: 479025157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_55
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 800
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441285b3a5888b4b825897c243c6a84
+      internalID: 1081558774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_56
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 795
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc3c356b7c9ebc4ba3eb3ac9a5e3e6e
+      internalID: 1390426042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_57
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 858
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5d16761db18a4f93c276bed333c76
+      internalID: -207232449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_58
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf3f0480a94fc44f981c352b656e2de
+      internalID: 635963847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_59
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 852
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734da47367f40249b8d229df0ed1219
+      internalID: -1008420928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_60
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 722
+        width: 68
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4019e14b503dc46448d3569fc2e94d34
+      internalID: -32434295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 834
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11152ad8e17113449b10cae63b0b070a
+      internalID: -884805771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_62
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 779
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867513aa7fb870040991ac120599daab
+      internalID: -1193027689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_63
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 846
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746b094c9e88034bb0a9ee05998874c
+      internalID: -1443240417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_64
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 786
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d4912d94c8094fbbab522ed349c03
+      internalID: 1249857075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_65
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 761
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96fb127dc3da44d9d4970cf18e6119
+      internalID: -1699538616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_66
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 766
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96898d39c459c794aaf7365afc5f0cd7
+      internalID: -1938702228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_68
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 786
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0c88571a264d4bb9d4a41c47aaeb3
+      internalID: 887271180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 144
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cdfa0abceb1f048b6051b6ab06b3a8
+      internalID: -730364043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 810
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a127b7e759eed4ca445059fd4deb03
+      internalID: -361968356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_71
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 750
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efac7b0fc4acf4438631beb60b755d2
+      internalID: -1593702757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 372
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142bb0ea338d884ab1fd1cb6cdfdd32
+      internalID: 685779390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_73
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 727
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0587106a118524bb54c36e827b30fc
+      internalID: -141760066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_74
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 750
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c9d109e8b05294cbccbd6247cb3692
+      internalID: -2144461551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_75
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 705
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1745dbe78289a48b048264e95d98de
+      internalID: 1081561932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_76
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 713
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5624642ca9734c9715c478d63b2d0
+      internalID: -360105119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_77
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 722
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac48a49fe2cdeb8428ad1f88c0b012c1
+      internalID: 2117985514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_78
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 615
+        width: 80
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebfe99c8bf408746b53313a3f7c8fd4
+      internalID: 2010623560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_79
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 744
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d88cd9550d4cb40b7feecbf7dff2bc
+      internalID: -10735673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_80
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 747
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16994dd2227ae0499b0df13863970c5
+      internalID: 1404811814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484f12f23a533364a903f5c2e09949c6
+      internalID: 1782224627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_82
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 684
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d676feeb275444a9351f153a64f3f
+      internalID: 1817023632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_83
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 654
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259bd933e98596d4b9021651d0691171
+      internalID: 220617022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 646
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce607e71af59e44e918a96789190d24
+      internalID: -1819506716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_85
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 640
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bc790714deb7842809e91161bdc7af
+      internalID: -956616286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_86
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 655
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e150e72a6751ae044a3411ad43b3a691
+      internalID: 1781579184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_87
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 655
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b7b13962a26a4fa85bd8712a222ce
+      internalID: 1527475745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_88
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 702
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef879e33e92b8f4ca8b77e88bc308a5
+      internalID: -1038854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_89
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 696
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef29fdc27637d4d864732cfdfff477
+      internalID: 1573864326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_90
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 696
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7968e3b2f529441b3883a63c0bdedf
+      internalID: -1770065689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_91
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 605
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d16e4d60f686f4490c5c01bf551df9
+      internalID: -2011352451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_92
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab1a8e2d304aed4ea4e0966dbf778d3
+      internalID: -2018834735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_93
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 584
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a9ee6572abb94e9515af6dc92ad7d
+      internalID: 1943324999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_94
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 635
+        width: 69
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8747f55b127214b99487925bc13d13
+      internalID: -251125666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_95
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 582
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27466098182c1c94496a5ea26a2c15b7
+      internalID: 961652025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da89b0e4f55d246939fe4f96fc7fbd
+      internalID: 1090590589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_97
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 529
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d455d9e1fefc441ae9e8dbc934d172
+      internalID: 712766414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_98
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 582
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e139814fff0a4abdf27031bd08fc0
+      internalID: 303915419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_99
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 576
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783bf3be49d92f43b7596d9a05e4016
+      internalID: -2051242977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_100
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 568
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2460b7b86d4e24fbb2697e853c3a9b
+      internalID: 1422779191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_101
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 594
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe40d0d63291df4fb98ef8440378cf2
+      internalID: -574003550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_102
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 572
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e002efec73b3b2b4284fc9ead7ac6196
+      internalID: -1528654402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_103
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 559
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38bd012b2bc35b4899ddfcd8905d2ec
+      internalID: -1732633759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_104
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 612
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84574636ec059a44cb4e14936aa0650f
+      internalID: 868437708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_105
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 595
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa021fec79340684eb4d68591a83910e
+      internalID: -225353886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_106
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 507
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15354e4c251bb0c4c953181acb2c75d5
+      internalID: -1263074513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_107
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 500
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f967ab90cefcbbb4ab818ff3c6c9399b
+      internalID: -1927279527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_108
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 516
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f2add3747f4ba4b9d9bae1d418e06f
+      internalID: -326096793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_109
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 564
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d4d43751b261b4aa5597006e15ca60
+      internalID: 2041588794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_110
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 516
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7833b8224211b45be1e657b9d24802
+      internalID: 1441010719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_111
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 504
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13621f746aa98f46be64bfd9a7f4331
+      internalID: 1836247210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_112
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 564
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918081718a9c5c745b64f11d9858d481
+      internalID: 1301493765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_113
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 504
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd573859aadfd324c81ecd77dd80ce92
+      internalID: -366710200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_114
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 556
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065f400ff6df3447a4e6a318869a3f8
+      internalID: 154949568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_115
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 493
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621fc14003f410a43a6fa2d89470d4d9
+      internalID: -990054808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_116
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a172eb890f694e9e7eec5e49247c8
+      internalID: 325232626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 516
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168484b117d651a4d88b034108aa349b
+      internalID: -2087566227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 420
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc493a6d77c1dc4abb09378e7669f42
+      internalID: -1271366784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_119
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 516
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbb4280dc2fe148b3a16c6a5af985a
+      internalID: 1476405344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb3c9da15f2864c8aa81489a61c72c
+      internalID: -1070148776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_121
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 511
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3342f971ff854d9c8145f828998b1
+      internalID: 1379029778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_122
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 435
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4cceaf9d6a164cb744fe62bb935eb
+      internalID: 181278748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_123
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 450
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be40342299c524bb064eeb5e66f174
+      internalID: 1611193354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_124
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 439
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e5ad6dc69de34f9cac0b89b45338a
+      internalID: -53721048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_125
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 500
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd46b19ea4824745964129a7a303543
+      internalID: 50199741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_126
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 438
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3bb460339ba0140af2673ee8e5849d
+      internalID: -418854112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_127
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 432
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67b015dddd26714b8adb3bb5469fe6d
+      internalID: 735076428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_128
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 430
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a67149b2430644ea22a480a5685c53
+      internalID: 2125283838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_129
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 429
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa97822b9d79641a581d344ed34e6d
+      internalID: 11378728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_130
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 461
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952e84c17c91c5428c8d1f405e896a4
+      internalID: 1833332086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_131
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 426
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b25f53cd766d444b330dfb558f2b21
+      internalID: -1975782092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_132
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 441
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ed8bb52322739409950f6a8efed923
+      internalID: -2010632127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_133
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 447
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186c755688114f4cbf5067311c31ba5
+      internalID: 1744954327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_134
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 371
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3705f09eda493e1488dbb27b0bbc11e0
+      internalID: -1002058174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_135
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 426
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df3f8b9f8515c04383f88173a5767b4
+      internalID: -395103698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_136
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 366
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98273b7873116e94698ec22b0db7edea
+      internalID: -1640303988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_137
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 366
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940874464c2596a4b8ce5e26054419fd
+      internalID: -1787254802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_138
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 360
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438f8a9d2ee42b4b8531459cd68efaa
+      internalID: -820710039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_139
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 354
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cba84c9c4561049910212b4ad11e23
+      internalID: -1592702620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55e982041498414f848a18f67680a5c
+      internalID: -1876008462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_141
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f99691cff9a46c438e5ff24486ac2c9
+      internalID: 1181456306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_142
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 369
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d56ceb74ccf14eb842917867aee79
+      internalID: 1854607403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_143
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 354
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4b906976c55d4aad11d3556dbe32c
+      internalID: 1886665500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_144
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 378
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3032ea766f06418928ee9ee09b05e
+      internalID: 1595136999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_145
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 248
+        width: 173
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268cfcd6416ac014f94646ac95b2d262
+      internalID: -1019882196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_146
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 372
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a22794a67ac614cb46cff85352fe55
+      internalID: -1294698495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702eed9b5d352ca4ea2c11e3ae11391f
+      internalID: 1281060562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e76f1942cf8d8c40b295a6198a1d741
+      internalID: -176122621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_149
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 318
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb75be6d3fbec5498c3c4d0290e2b73
+      internalID: -383549572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_150
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 295
+        width: 152
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99ad7ed4f188544a2717930ce03b74
+      internalID: -751888779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_151
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 181
+        width: 154
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f68e1724cd9b314b875cac486d23fc4
+      internalID: 238331206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_152
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 304
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56805345e7bb7574d9f5b283b04222ba
+      internalID: 1220185085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_153
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 300
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4f56e437509354c9586fa1eab29b8d
+      internalID: 905916579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_154
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 294
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d157db0e6699544088b969dfdd233d1
+      internalID: 1740415924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_155
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 294
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f9b3448d0d5b4d8c10d15cd0f75af
+      internalID: -573252150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_156
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 286
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2f20d7bea27542ba9dd3e8d638297
+      internalID: -80671528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_157
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 294
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376726ba7e17124e8a1acde614e2d8e
+      internalID: 2102136626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_158
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 306
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7574c3ce959ce14281f12b81d6bb949
+      internalID: 1363600003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12fa8d4894861418da7457ec5087b8
+      internalID: 1105830100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_160
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 232
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde48200354bc64982c0600b3e9bc5e
+      internalID: 1450900195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_161
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 300
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6afa0f978ffe1e448c4b8d69ee5f09c
+      internalID: 2108230166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_162
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 215
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1bf4df3da4f2c42ae8576b71e035f3
+      internalID: -430274950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_163
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 216
+        width: 152
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95640840e17ae864fa78209c1becdb75
+      internalID: -417299967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_164
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 222
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a13787ea4f31d46ad1ea798c932b64
+      internalID: -2074945906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_165
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 223
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10f3835cae1bb419a4249b47beb330
+      internalID: 653793025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_166
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 225
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315557ed2d161974c89a997e3876b431
+      internalID: -937427062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 218
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b3c880c20af684c86149d4f35a35ba
+      internalID: -2004423394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_168
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 276
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4970b0f4db07904f983e4c27e7011d8
+      internalID: -371158999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_169
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 78
+        width: 412
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4ee00604a55084790479617b8eaade
+      internalID: -434836592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_170
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b5a0310aae6f458166f739231843b
+      internalID: -1689126410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_171
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 216
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fd00aa16380b4e9922554fcb33a7d
+      internalID: -383060467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f88caf6e3e154d9c0e93e7b5a7225
+      internalID: -146587679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_173
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 157
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa726a0262bf989489e1493a4f8e9b45
+      internalID: 1906282440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_174
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 150
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a80a7d20331040a6f7fde2faa55b0
+      internalID: 1268267887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_175
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 149
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553330dd16c16f459559844a0d38a08
+      internalID: 386337165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_176
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 153
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa28cecfb5a2a4fb6f9eed8cec1b8a
+      internalID: -1247184520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_177
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 170
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c28a71f1a8f664394080216353778c
+      internalID: -2016421361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_178
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 144
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36deaec202d7c8e48b7852bb6d5ddb0a
+      internalID: 84198449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_179
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 149
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52002395440563a448cc148c523d3ac1
+      internalID: 862449156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_180
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 148
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631a38c02e5990479b698dd5cecb833
+      internalID: -899475668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_181
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 158
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c57fdeb8b5164a80f4c49775e9a5b
+      internalID: 1857205340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_182
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 144
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05c51a35bf41049b6c64f2f74c4bd6
+      internalID: -1337022436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_183
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 146
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b74b235d07ba4d8a65168094c68e5
+      internalID: 718203315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_184
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 81
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e80fb4ca276db542a791784f4557bd0
+      internalID: 1314320197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_185
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 78
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b15e68b541a29489a0fa727ca8cb81
+      internalID: -859175211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_186
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 79
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a997c7da7540846808abe9330628b7
+      internalID: -836704456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_187
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 138
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650e0d984b12324e85f6f494f8d1030
+      internalID: 253391635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_188
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 74
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db324008cd7992548ac504b3e704a57f
+      internalID: 507395051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_189
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 74
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dc0bedac7ba8047bf4f258677f40dc
+      internalID: -1576464553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_190
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 78
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650b7364ae763f4a949fb5315db56f3
+      internalID: 1591611093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_191
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 72
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02604e44d3748a041965e98e0357b7a2
+      internalID: -1737910792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d7e0c8f903294794e8692028d7b8e
+      internalID: 1667843420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_193
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1c83b7f28cb244289f32fa616b648f
+      internalID: 294488716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_194
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe803b5a1fba16240941fe32619fd11b
+      internalID: 2059751780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_195
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 156
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2760a9fc4f705294cb2b6f9244438f1a
+      internalID: -1767633514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_196
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 150
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fae15ad5409ba94ea0f70eaf55886d9
+      internalID: -1411713652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_197
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 0
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0495fda33b1a0c943bfe8dbaace8e561
+      internalID: 1037171678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_198
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d907c1ee98949488ce4d17308d6ed1
+      internalID: -361662881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_199
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9103271268614b4197731e3646f3973
+      internalID: 91205808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_200
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7806298baeb2503458094237b6497169
+      internalID: -152964877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_201
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7488e892d38ded04fa3f1a0b457b0be2
+      internalID: -2083963751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_202
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 18
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d2f051d461bf42b7dab9bffddc287
+      internalID: -1516049959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_203
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 6
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271fd580f988ce4f93a70f59b61e089
+      internalID: -2045056508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_204
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea174770600f05d498f3e37e167e6dc2
+      internalID: 324031140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_205
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 7
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3abbdbb70ee94594d500086494260
+      internalID: -1567888375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_206
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10afac0ae50bbb42b6647eaa23f181c
+      internalID: 276921436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Event_207
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76b923494d749409e4413272f144e1
+      internalID: -1324408816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c6655f3f96c514446888b075ce1b5da9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Event_0: -1543273011
+      Event_1: 1664322532
+      Event_10: -809655857
+      Event_100: 1422779191
+      Event_101: -574003550
+      Event_102: -1528654402
+      Event_103: -1732633759
+      Event_104: 868437708
+      Event_105: -225353886
+      Event_106: -1263074513
+      Event_107: -1927279527
+      Event_108: -326096793
+      Event_109: 2041588794
+      Event_11: -1765472109
+      Event_110: 1441010719
+      Event_111: 1836247210
+      Event_112: 1301493765
+      Event_113: -366710200
+      Event_114: 154949568
+      Event_115: -990054808
+      Event_116: 325232626
+      Event_117: -2087566227
+      Event_118: -1271366784
+      Event_119: 1476405344
+      Event_12: -267672342
+      Event_120: -1070148776
+      Event_121: 1379029778
+      Event_122: 181278748
+      Event_123: 1611193354
+      Event_124: -53721048
+      Event_125: 50199741
+      Event_126: -418854112
+      Event_127: 735076428
+      Event_128: 2125283838
+      Event_129: 11378728
+      Event_13: -552960333
+      Event_130: 1833332086
+      Event_131: -1975782092
+      Event_132: -2010632127
+      Event_133: 1744954327
+      Event_134: -1002058174
+      Event_135: -395103698
+      Event_136: -1640303988
+      Event_137: -1787254802
+      Event_138: -820710039
+      Event_139: -1592702620
+      Event_14: -369918332
+      Event_140: -1876008462
+      Event_141: 1181456306
+      Event_142: 1854607403
+      Event_143: 1886665500
+      Event_144: 1595136999
+      Event_145: -1019882196
+      Event_146: -1294698495
+      Event_147: 1281060562
+      Event_148: -176122621
+      Event_149: -383549572
+      Event_15: -1906063688
+      Event_150: -751888779
+      Event_151: 238331206
+      Event_152: 1220185085
+      Event_153: 905916579
+      Event_154: 1740415924
+      Event_155: -573252150
+      Event_156: -80671528
+      Event_157: 2102136626
+      Event_158: 1363600003
+      Event_159: 1105830100
+      Event_16: 1558353132
+      Event_160: 1450900195
+      Event_161: 2108230166
+      Event_162: -430274950
+      Event_163: -417299967
+      Event_164: -2074945906
+      Event_165: 653793025
+      Event_166: -937427062
+      Event_167: -2004423394
+      Event_168: -371158999
+      Event_169: -434836592
+      Event_17: -1537774373
+      Event_170: -1689126410
+      Event_171: -383060467
+      Event_172: -146587679
+      Event_173: 1906282440
+      Event_174: 1268267887
+      Event_175: 386337165
+      Event_176: -1247184520
+      Event_177: -2016421361
+      Event_178: 84198449
+      Event_179: 862449156
+      Event_18: -2129307788
+      Event_180: -899475668
+      Event_181: 1857205340
+      Event_182: -1337022436
+      Event_183: 718203315
+      Event_184: 1314320197
+      Event_185: -859175211
+      Event_186: -836704456
+      Event_187: 253391635
+      Event_188: 507395051
+      Event_189: -1576464553
+      Event_19: -490899821
+      Event_190: 1591611093
+      Event_191: -1737910792
+      Event_192: 1667843420
+      Event_193: 294488716
+      Event_194: 2059751780
+      Event_195: -1767633514
+      Event_196: -1411713652
+      Event_197: 1037171678
+      Event_198: -361662881
+      Event_199: 91205808
+      Event_2: 252376439
+      Event_20: -259431904
+      Event_200: -152964877
+      Event_201: -2083963751
+      Event_202: -1516049959
+      Event_203: -2045056508
+      Event_204: 324031140
+      Event_205: -1567888375
+      Event_206: 276921436
+      Event_207: -1324408816
+      Event_21: 1037261263
+      Event_22: -1534149587
+      Event_23: 557197580
+      Event_24: 314860579
+      Event_25: -1392590685
+      Event_26: 1000882932
+      Event_27: -780315443
+      Event_28: -1787460965
+      Event_29: 478789730
+      Event_3: -239705605
+      Event_30: -1269473283
+      Event_31: -494895005
+      Event_32: 1760630572
+      Event_33: 329454509
+      Event_34: -216569164
+      Event_35: -990075655
+      Event_36: -1772250764
+      Event_37: 1817363964
+      Event_38: -955930332
+      Event_39: -748662975
+      Event_4: -137420757
+      Event_40: 1884853441
+      Event_41: -247214222
+      Event_42: 2014697990
+      Event_43: 295990508
+      Event_44: -638478406
+      Event_45: 1512078989
+      Event_46: -331848200
+      Event_47: -1100144289
+      Event_48: -915855553
+      Event_49: 971143879
+      Event_5: -1636576640
+      Event_50: 1106542645
+      Event_51: -521709665
+      Event_52: -287243384
+      Event_53: 479025157
+      Event_54: -413766205
+      Event_55: 1081558774
+      Event_56: 1390426042
+      Event_57: -207232449
+      Event_58: 635963847
+      Event_59: -1008420928
+      Event_6: 871271432
+      Event_60: -32434295
+      Event_61: -884805771
+      Event_62: -1193027689
+      Event_63: -1443240417
+      Event_64: 1249857075
+      Event_65: -1699538616
+      Event_66: -1938702228
+      Event_67: -1699536097
+      Event_68: 887271180
+      Event_69: -730364043
+      Event_7: 531593667
+      Event_70: -361968356
+      Event_71: -1593702757
+      Event_72: 685779390
+      Event_73: -141760066
+      Event_74: -2144461551
+      Event_75: 1081561932
+      Event_76: -360105119
+      Event_77: 2117985514
+      Event_78: 2010623560
+      Event_79: -10735673
+      Event_8: 1186031206
+      Event_80: 1404811814
+      Event_81: 1782224627
+      Event_82: 1817023632
+      Event_83: 220617022
+      Event_84: -1819506716
+      Event_85: -956616286
+      Event_86: 1781579184
+      Event_87: 1527475745
+      Event_88: -1038854702
+      Event_89: 1573864326
+      Event_9: -1005963274
+      Event_90: -1770065689
+      Event_91: -2011352451
+      Event_92: -2018834735
+      Event_93: 1943324999
+      Event_94: -251125666
+      Event_95: 961652025
+      Event_96: 1090590589
+      Event_97: 712766414
+      Event_98: 303915419
+      Event_99: -2051242977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
