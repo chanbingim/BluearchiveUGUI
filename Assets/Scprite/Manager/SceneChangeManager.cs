@@ -50,7 +50,7 @@ public class SceneChangeManager : MonoBehaviour
 
     private void Update()
     {
-        if(Input.touchCount > 0 || Input.anyKeyDown)
+        if(Input.touchCount > 0 || Input.GetMouseButtonDown(0))
         {
             string CurrentScene = SceneManager.GetActiveScene().name;
             if (CurrentScene == "StartScenes")

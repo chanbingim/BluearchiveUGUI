@@ -7,9 +7,11 @@ public class UIManager : MonoBehaviour
 {
     static UIManager instance = null;
     [SerializeField] private GameObject DataContext;
+    [SerializeField] private GameObject popUpBlurImage;
     [SerializeField] private List<GameObject> showPhoto_DynamicButList;
     [SerializeField] private float ShowTimeRate;
 
+    private GameObject currentActivePopupObj;
     private List<GameObject> DynamicButList;
 
     private void Awake()
@@ -57,5 +59,38 @@ public class UIManager : MonoBehaviour
             }
 
         }
+    }
+
+    public void ShowPopupWindow(GameObject obj)
+    {
+        var popupWindow = obj.GetComponent<PopUpWindowBase>();
+        if (popupWindow.useBlurimage)
+        {
+            if (popUpBlurImage)
+                popUpBlurImage.SetActive(true);
+            else
+                Debug.Log("None Find Blur");
+
+            currentActivePopupObj = obj;
+            popupWindow.Initialized();
+        }
+    }
+
+    public void ClosePopUpWindow()
+    {
+        if (popUpBlurImage)
+        {
+            if (popUpBlurImage.activeSelf)
+            {
+                popUpBlurImage.SetActive(false);
+            }
+        }
+        
+        if(currentActivePopupObj)
+        {
+            if(currentActivePopupObj.activeSelf)
+                currentActivePopupObj.SetActive(false);
+        }
+         
     }
 }

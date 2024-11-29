@@ -11,9 +11,9 @@ public class CustomRotationAni : CustomUIAnimationBase
     [SerializeField]
     private Vector3 EndRot;
 
-    private void OnDestroy()
+    public override void Init()
     {
-        StopCoroutine(PLAYUIRotationAnimation());
+        enumerators = new IEnumerator[] { RotationAnimation(StartVariable, EndVariable), RotationAnimation(EndVariable, StartVariable) };
     }
 
     private IEnumerator RotationAnimation(Vector3 start, Vector3 end)
@@ -36,21 +36,6 @@ public class CustomRotationAni : CustomUIAnimationBase
             Play();
         else if (WrapMode != AnimationPlayType.PingPang && !bIsLoop)
             bIsPlaying = false;
-
-    }
-
-    private IEnumerator PLAYUIRotationAnimation()
-    {
-        yield return StartCoroutine(RotationAnimation(StartRot, EndRot));
-        yield return new WaitForSeconds(1);
-        yield return StartCoroutine(RotationAnimation(EndRot, StartRot));
-
-        if (bIsLoop)
-        {
-            Play();
-        }
-        else
-            bIsPlaying = false;
     }
 
     public override void Play()
@@ -68,7 +53,7 @@ public class CustomRotationAni : CustomUIAnimationBase
                 break;
 
             case AnimationPlayType.PingPang:
-                PlayAni = PLAYUIRotationAnimation();
+                PlayAni = PLAYPingPongAnimation(enumerators);
                 break;
         }
 

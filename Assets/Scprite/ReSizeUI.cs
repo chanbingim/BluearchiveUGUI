@@ -18,11 +18,6 @@ public class ReSizeUI : MonoBehaviour
 
     public ScreenSizeType GUIscreenSizeType;
 
-    public bool flag;
-
-    [HideIf("flag", true)]
-    public int var1;
-
     Text _WidgetText;
     public Vector2 PaddingPos;
 

@@ -82,7 +82,7 @@ public class ParticleCanvasManager : MonoBehaviour
                 particleObj.localPosition = currentLoc; // 로컬 좌표 설정
                 TouchParticleObj.SetActive(true);
                 TouchMoveParticleObj.transform.localPosition = currentLoc;
-                var animation = TouchParticleObj.GetComponent<ChangeScaleAnimation>();
+                var animation = TouchParticleObj.GetComponent<CustomUIAnimationBase>();
                 if (animation)
                 {
                     animation.Play();

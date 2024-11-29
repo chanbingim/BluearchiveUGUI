@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class InputManager : MonoBehaviour
 {
     private static InputManager instance = null;
@@ -105,6 +106,5 @@ public class InputManager : MonoBehaviour
                 UIManager.GetInstance.showDynamicBut();
                 break;
         }
-
     }
 }

@@ -25,12 +25,10 @@ public class CustomButtonScrite : MonoBehaviour
     {
         if(C_ButData.ShowPopUpUI)
         {
-            GameObject spawnObj = Instantiate(C_ButData.ShowPopUpUI);
-            RectTransform objPos = spawnObj.GetComponent<RectTransform>();
-            objPos.anchoredPosition = Vector2.zero;
-            objPos.SetParent(gameObject.transform);
+            UIManager.GetInstance.ShowPopupWindow(C_ButData.ShowPopUpUI);
         }
     }
+
     public void CallStageEvent()
     {
         SceneChangeManager.GetInstance.ChangeNextScene(nextStageName);

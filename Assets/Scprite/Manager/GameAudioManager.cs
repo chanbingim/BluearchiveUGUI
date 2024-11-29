@@ -6,16 +6,14 @@ using UnityEngine.SceneManagement;
 
 public class GameAudioManager : MonoBehaviour
 {
+    #region Varable
     public delegate void CharacterVoiceEnd();
-
     [SerializeField] private CustomDictionary<AudioClip> m_AudioClipList;
     [SerializeField] private AudioSource audioSource_BGM;
     [SerializeField] private AudioSource audioSource_Character;
     public CharacterVoiceEnd CharacterVoiceEndDele;
-
-
+    #endregion
     static GameAudioManager instance;
-
     private void Awake()
     {
         if (null == instance)
@@ -59,7 +57,11 @@ public class GameAudioManager : MonoBehaviour
     }
     public float playCharacterVoice(string path)
     {
-        Debug.Log(path);
+        if(audioSource_BGM)
+        {
+            audioSource_BGM.volume = 0.5f;
+        }
+
         AudioClip characterVoice = Resources.Load<AudioClip>(path);
         audioSource_Character.clip = characterVoice;
         audioSource_Character.Play();
@@ -72,6 +74,11 @@ public class GameAudioManager : MonoBehaviour
         while (audioSource_Character.isPlaying)
         {
             yield return null; // 다음 프레임까지 대기
+        }
+
+        if (audioSource_BGM)
+        {
+            audioSource_BGM.volume = 1.0f;
         }
 
         CharacterVoiceEndDele.Invoke();

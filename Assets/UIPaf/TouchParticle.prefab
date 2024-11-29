@@ -105,8 +105,10 @@ MonoBehaviour:
   StartVariable: {x: 0, y: 0, z: 0}
   EndVariable: {x: 0, y: 0, z: 0}
   bIsLoop: 0
+  StartPlayAnimation: 0
   playTime: 0.3
   playSpeed: 0
   ApplyObejctUI: {fileID: 326901770933351863}
+  changeScaleType: 2
   StartSize: 0
   EndSize: 100

@@ -2058,10 +2058,10 @@ TextureImporter:
       name: Common #1826112_92
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1842
-        width: 80
-        height: 84
+        x: 3
+        y: 1857
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2071,48 +2071,6 @@ TextureImporter:
       bones: []
       spriteID: b1ebbe9057834124bb4e9da4dd67da65
       internalID: -1670589928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_93
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1922
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: efea31611eeeec34695a45a795ba2c4a
-      internalID: -1836475856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_94
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 1922
-        width: 6
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 834cedcc5dbfdbc4e89f66397b1753ca
-      internalID: 80231244
       vertices: []
       indices: 
       edges: []
@@ -3235,9 +3193,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1737
-        width: 96
-        height: 105
+        y: 1760
+        width: 81
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -4260,28 +4218,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_201
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 1794
-        width: 64
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c5f7a9891f16c72449f95556ea3019a5
-      internalID: 1020341479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_202
+      name: _Sort(Description)
       rect:
         serializedVersion: 2
         x: 260
@@ -4465,27 +4402,6 @@ TextureImporter:
       bones: []
       spriteID: 9255901b7bb3b784ab58893b87b1f86c
       internalID: 1931294072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_211
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 1775
-        width: 64
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0db527b375142dc4cbd5d310c877ace2
-      internalID: 2063845111
       vertices: []
       indices: 
       edges: []
@@ -4696,27 +4612,6 @@ TextureImporter:
       bones: []
       spriteID: ff0810295d71fbb4a9bbc1d52376f67d
       internalID: -883409066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_223
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 1755
-        width: 64
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4d5c878aeb2d2f14b871ae79a8e750ba
-      internalID: 1764086639
       vertices: []
       indices: 
       edges: []
@@ -5062,9 +4957,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 158
-        y: 1571
+        y: 1578
         width: 216
-        height: 175
+        height: 168
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5163,13 +5058,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_247
+      name: _CloseButImage1
       rect:
         serializedVersion: 2
-        x: 1626
-        y: 1579
-        width: 154
-        height: 161
+        x: 1701
+        y: 1677
+        width: 63
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6402,27 +6297,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_310
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 1584
-        width: 18
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66a8cfb137ae3a942b22cd64223dadaa
-      internalID: -1241492307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Common #1826112_311
       rect:
         serializedVersion: 2
@@ -6549,13 +6423,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_317
+      name: _MomoTalkTalk
       rect:
         serializedVersion: 2
         x: 0
-        y: 1397
-        width: 103
-        height: 194
+        y: 1504
+        width: 93
+        height: 78
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -6565,27 +6439,6 @@ TextureImporter:
       bones: []
       spriteID: 0e46daa8fb809cf40abcd982a6704fb0
       internalID: -1032945091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_318
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 1584
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fb0a8c8d5e9d3074bb95c9c1c56069e1
-      internalID: 1933172733
       vertices: []
       indices: 
       edges: []
@@ -6717,27 +6570,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_325
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 1557
-        width: 46
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6e242e546f11034297dd465eec30ade
-      internalID: -1645429994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Common #1826112_326
       rect:
         serializedVersion: 2
@@ -6801,13 +6633,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_329
+      name: _MomoTalkStudent
       rect:
         serializedVersion: 2
         x: 102
         y: 1484
-        width: 178
-        height: 87
+        width: 81
+        height: 93
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -7347,27 +7179,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_355
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 1510
-        width: 24
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4aaf5e2365a01844e9f72be539efe4ee
-      internalID: -825184217
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Common #1826112_356
       rect:
         serializedVersion: 2
@@ -7704,13 +7515,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_372
+      name: _momoLog
       rect:
         serializedVersion: 2
         x: 299
-        y: 1377
-        width: 114
-        height: 111
+        y: 1383
+        width: 101
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -8145,27 +7956,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_393
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 1423
-        width: 14
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e3b5b7bed682e94c8e429e375ab0f77
-      internalID: 1138207905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Common #1826112_394
       rect:
         serializedVersion: 2
@@ -8292,27 +8082,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Common #1826112_400
-      rect:
-        serializedVersion: 2
-        x: 349
-        y: 1382
-        width: 65
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68da11e9ef3c48448939cf607876e4cc
-      internalID: -1266549169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Common #1826112_401
       rect:
         serializedVersion: 2
@@ -8329,48 +8098,6 @@ TextureImporter:
       bones: []
       spriteID: ee357799627a7454db76fb815d2f415c
       internalID: 1470917948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_402
-      rect:
-        serializedVersion: 2
-        x: 291
-        y: 1381
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66a1391ca55e0ac4aadea4771f1eded7
-      internalID: 1348561927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Common #1826112_403
-      rect:
-        serializedVersion: 2
-        x: 301
-        y: 1379
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1cb900d6b5f34964a89fc9a30864d3c3
-      internalID: -1214365436
       vertices: []
       indices: 
       edges: []
@@ -11126,6 +10853,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: _Sort
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1755
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea076c2075fb04cb927388d9b66e15
+      internalID: -692412902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -11252,7 +11000,6 @@ TextureImporter:
       Common #1826112_20: -1670094108
       Common #1826112_200: -1895754460
       Common #1826112_201: 1020341479
-      Common #1826112_202: -1710451435
       Common #1826112_203: -1721934556
       Common #1826112_204: -589342895
       Common #1826112_205: 1744504641
@@ -11301,7 +11048,6 @@ TextureImporter:
       Common #1826112_244: -71753245
       Common #1826112_245: 963182829
       Common #1826112_246: -788106672
-      Common #1826112_247: -1024562441
       Common #1826112_248: 1146515126
       Common #1826112_249: -862004334
       Common #1826112_25: 1571587256
@@ -11379,7 +11125,6 @@ TextureImporter:
       Common #1826112_314: -887395591
       Common #1826112_315: -1956021598
       Common #1826112_316: 1972229758
-      Common #1826112_317: -1032945091
       Common #1826112_318: 1933172733
       Common #1826112_319: 1548976603
       Common #1826112_32: 1930858314
@@ -11392,7 +11137,6 @@ TextureImporter:
       Common #1826112_326: 183141468
       Common #1826112_327: -1639780794
       Common #1826112_328: -1965467774
-      Common #1826112_329: -459852538
       Common #1826112_33: 333540692
       Common #1826112_330: 1916319725
       Common #1826112_331: 1317882939
@@ -11440,7 +11184,6 @@ TextureImporter:
       Common #1826112_37: -1004704139
       Common #1826112_370: -550252534
       Common #1826112_371: 1835969148
-      Common #1826112_372: -1770094380
       Common #1826112_373: 2129566570
       Common #1826112_374: -54186050
       Common #1826112_375: 1355284726
@@ -11657,7 +11400,6 @@ TextureImporter:
       Common #1826112_90: 1274478834
       Common #1826112_91: 785096737
       Common #1826112_92: -1670589928
-      Common #1826112_93: -1836475856
       Common #1826112_94: 80231244
       Common #1826112_95: -164716880
       Common #1826112_96: -423022759
@@ -11665,15 +11407,21 @@ TextureImporter:
       Common #1826112_98: -959712068
       Common #1826112_99: -1578522118
       _CharacterViewText: 1228056361
+      _CloseButImage1: -1024562441
       _Daily: 1569343416
       _Enlargement: 834248596
       _Gild: 413971082
       _Item: -390734841
       _Make: 907387972
+      _MomoTalkStudent: -459852538
+      _MomoTalkTalk: -1032945091
       _Pensung: 1339837152
       _Reducation: 673362820
       _Setting: -719119840
+      _Sort: -1836475856
+      _Sort(Description): -1710451435
       _caffe: -1285792777
+      _momoLog: -1770094380
       _shop: -1714530345
       "_\uD3B8\uC131": 1062262437
   mipmapLimitGroupName: 

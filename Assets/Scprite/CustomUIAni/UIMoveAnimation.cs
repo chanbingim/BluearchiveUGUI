@@ -1,13 +1,15 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+
 public class UIMoveAnimation : CustomUIAnimationBase
 {
-    public override void Stop()
+    public override void Init()
     {
-        StopCoroutine(PLAYUIGroupMoveAnimation());
+        enumerators = new IEnumerator[] { MoveAnimation(StartVariable, EndVariable), MoveAnimation(EndVariable, StartVariable) };
     }
 
     IEnumerator MoveAnimation(Vector3 Start, Vector3 End)
@@ -18,7 +20,7 @@ public class UIMoveAnimation : CustomUIAnimationBase
        transform.anchoredPosition = Start;
         while (Timer < playTime)
         {
-            Timer += Time.unscaledDeltaTime;
+            Timer += Time.deltaTime;
             
             transform.anchoredPosition = Vector3.Lerp(Start, End, Timer/ playTime);
             yield return null;
@@ -31,24 +33,9 @@ public class UIMoveAnimation : CustomUIAnimationBase
         else if(WrapMode != AnimationPlayType.PingPang && !bIsLoop)
             bIsPlaying = false;
     }
-    private IEnumerator PLAYUIGroupMoveAnimation()
-    {
-         // Fade In
-         yield return StartCoroutine(MoveAnimation(StartVariable, EndVariable));
-         // 잠시 대기
-         yield return new WaitForSeconds(0.5f);
-         // Fade Out
-         yield return StartCoroutine(MoveAnimation(EndVariable, StartVariable));
 
-        if (bIsLoop)
-            Play();
-        else
-            bIsPlaying = false;
-    }
     public override void Play()
     {
-        IEnumerator PlayAni = null;
-
         switch (WrapMode)
         {
             case AnimationPlayType.ForwardPlay:
@@ -60,7 +47,7 @@ public class UIMoveAnimation : CustomUIAnimationBase
                 break;
 
             case AnimationPlayType.PingPang:
-                PlayAni = PLAYUIGroupMoveAnimation();
+                PlayAni = PLAYPingPongAnimation(enumerators);
                 break;
         }
 
@@ -69,6 +56,5 @@ public class UIMoveAnimation : CustomUIAnimationBase
             bIsPlaying = true;
             StartCoroutine(PlayAni);
         }
-           
     }
 }
